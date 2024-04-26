@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body {
+    background: url("../images/sakura.jpg");
+}
+
+h1 {
+    font-size: 80px;
+    color: aqua;
+}
+.rounded{
+    border-radius:50%;
+    opacity:0.5;
+}
